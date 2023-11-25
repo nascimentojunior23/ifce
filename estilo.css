@@ -1,0 +1,62 @@
+
+.verde {
+	
+}
+
+.inputwidth {
+	width: 32px;
+	border-radius: 4px;
+	
+}
+
+.verderad {
+	
+	background-color: green; 
+	padding: 12px;
+	font-size: 22px; 
+	color: white; 
+	border-radius: 8px; 
+	
+	
+}
+
+.verm {
+	font-family: Comic sans MS; 
+	color: red; 
+	font-size: 16px; 
+}
+
+.bcom {
+	
+	font-family: Comic sans MS; 
+	font-weight: bold;
+}
+
+p {
+	font-family: Comic sans MS; 
+	font-weight: bold;
+	font-size: 13px; 
+}
+
+.verdesub {
+	
+	background-color: green; 
+	padding: 4px;
+	font-size: 13px; 
+	color: white; 
+	border-radius: 6px; 
+	width: 13%; 
+	font-weight: bold;
+	
+	
+}
+
+
+input{
+	border-radius: 4px;
+}
+
+form {
+	font-family: Comic sans MS; 
+}
+
